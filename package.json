@@ -5,6 +5,7 @@
     "chai": "1.9.1",
     "clusterfoo.url-helpers": "git://github.com/clusterfoo/url-helpers.git",
     "co": "^4.6.0",
+    "co-fs": "^1.2.0",
     "co-request": "^1.0.0",
     "dotenv": "^2.0.0",
     "grunt": "*",
