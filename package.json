@@ -16,7 +16,8 @@
     "grunt-istanbul-coverage": "0.0.5",
     "grunt-jscs-checker": "*",
     "grunt-mocha-test": "~0.9.0",
-    "ioredis": "^1.15.1"
+    "ioredis": "^1.15.1",
+    "request": "^2.72.0"
   },
   "scripts": {
     "start": "node app.js"
