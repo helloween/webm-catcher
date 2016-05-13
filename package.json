@@ -1,6 +1,9 @@
 {
   "name": "test",
   "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "chai": "1.9.1",
     "clusterfoo.url-helpers": "git://github.com/clusterfoo/url-helpers.git",
@@ -17,10 +20,10 @@
     "grunt-jscs-checker": "*",
     "grunt-mocha-test": "~0.9.0",
     "ioredis": "^1.15.1",
+    "koa": "^1.2.0",
+    "koa-favicon": "^1.2.1",
+    "koa-views": "^4.1.0",
     "request": "^2.72.0"
-  },
-  "scripts": {
-    "start": "node app.js"
   },
   "jshintConfig": {
     "bitwise": true,
